@@ -1,4 +1,4 @@
-### Olá! Sou o Roberto Lucas 👋
+### Hello there! I am Roberto Lucas 👋
 
 <!--
 **robspereira/robspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+---
+<div align = "center">
+  <img src = "[https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/9bc27292880429.5e569ff84e4d0.gif)">
+</div>
+
+---
+
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robspereira&show_icons=true&count_private=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=robspereira&layout=compact&langs_count=8&theme=radical)
