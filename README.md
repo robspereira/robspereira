@@ -30,14 +30,12 @@ Here are some ideas to get you started:
   <img src = "https://i.imgur.com/IlYfpdB.gif" width = "600" height = "300">
 </div>
 
----
-
 ### 👨‍💻 About me:
 
 I am a Information Systems student from São Luís do Maranhão, Brazil.
 
 - Currently working as a Full Stack intern for Defensoria Pública do Estado do Maranhão.
-
+- Very passionate about technology, studying different languages and frameworks in my free time.
 
 ---
 
