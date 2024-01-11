@@ -1,5 +1,3 @@
-### Hello there! I am Roberto Lucas 👋
-
 <!--
 **robspereira/robspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id = "badges">
+<div id = "badges" align = "center">
+  <h2> Hello there! I am Roberto Lucas 👋</h2>
   <a href="https://www.linkedin.com/in/roberto-lucas-561a53229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -30,6 +29,15 @@ Here are some ideas to get you started:
 <div align = "center">
   <img src = "https://i.imgur.com/IlYfpdB.gif" width = "600" height = "300">
 </div>
+
+---
+
+### 👨‍💻 About me:
+
+I am a Information Systems student from São Luís do Maranhão, Brazil.
+
+- Currently working as a Full Stack intern for Defensoria Pública do Estado do Maranhão.
+
 
 ---
 
@@ -81,7 +89,7 @@ DBs:
 </div>
 
 
-Others:
+Other:
 ---
 <div align = "center">
   <img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
