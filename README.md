@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <div align = "center">
-  <img src = "[https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/9bc27292880429.5e569ff84e4d0.gif)">
+  <img src = "https://i.imgur.com/IlYfpdB.gif" width = "600" height = "300">
 </div>
 
 ---
