@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 I am a Information Systems student from São Luís do Maranhão, Brazil.
 
-- Currently working as a Full Stack intern for Defensoria Pública do Estado do Maranhão.
+- Currently working as a Trainee software developer at SysMap Soutions.
 - Very passionate about technology, studying different languages and frameworks in my free time.
 
 ---
